@@ -33,10 +33,9 @@ def main():
     """
     The main function of this module
     """
-    year = input()
-    lst = opn_csv('land-registry-house-prices-ward.csv', year)
+    lst = opn_csv('coursework-basics-of-programming-/info/land-registry-house-prices-ward.csv', '2016')
     print(lst)
-    wrte_csv('ward-price.csv', lst)
+    wrte_csv('coursework-basics-of-programming-/info/ward-price.csv', lst)
 
 
 if __name__ == '__main__':
