@@ -35,7 +35,7 @@ def main():
     """
     lst = opn_csv('coursework-basics-of-programming-/info/land-registry-house-prices-ward.csv', '2016')
     print(lst)
-    wrte_csv('coursework-basics-of-programming-/info/ward-price.csv', lst)
+    wrte_csv('coursework-basics-of-programming-/filtred_info/ward-price.csv', lst)
 
 
 if __name__ == '__main__':
