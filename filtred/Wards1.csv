@@ -1,0 +1,638 @@
+Ward_name,Price,Schools_number,Crimes_number
+St Michael's,340466,0,6821
+Springfield,438375,12,2334
+Shirley,385923,6,3341
+Northfield,666598,3,2752
+Longbridge,357157,5,3216
+Greenhill,347223,10,2549
+Abbey,213651,11,1713
+Westbourne,682486,6,110
+Westbourne,682486,6,892
+West Green,414154,6,1228
+Southgate,469008,7,964
+River,245151,6,1381
+Queens Park,1002505,10,163
+Mayfield,373610,6,58
+Manor,439291,4,256
+Hillside,858262,8,276
+Eastbrook,287247,3,392
+Churchill,1137519,5,385
+Sudbury,338553,2,3382
+Heath,254449,7,356
+Town,400980,13,1391
+Seven Sisters,464705,5,109
+Heath,254449,7,1258
+Ferndale,549258,2,246
+St Ann's,431753,0,2483
+Valley,324900,3,86
+Tudor,726628,3,272
+Yiewsley,288634,9,1986
+Yeading,304290,1,1833
+Wormholt and White City,637347,7,1501
+Worcester Park,353442,3,714
+Woolwich Riverside,361749,10,4207
+Woolwich Common,305994,5,2316
+Woodside,294751,10,2115
+Woodside,294751,10,3716
+Woodhouse,492090,7,1735
+Woodberry Down,456888,0,1430
+Wood Street,442416,8,1499
+Winchmore Hill,620885,7,933
+Wimbledon Park,819777,1,860
+William Morris,409832,2,1406
+Willesden Green,461447,7,2295
+Whitton,469820,3,769
+Whitefoot,312060,6,1570
+Whitechapel,681299,16,3993
+White Hart Lane,308997,4,1973
+Whalebone,260261,2,1412
+Westbourne,682486,6,2720
+West Wickham,507101,5,721
+West Twickenham,527231,3,707
+West Thornton,282660,4,2345
+West Ruislip,443143,5,1063
+West Putney,767962,7,1165
+West Hill,542929,12,1051
+West Hendon,457444,10,2683
+West Harrow,442995,3,565
+West Hampstead,764907,0,1628
+West Ham,346455,4,1582
+West Green,414154,6,3048
+West Finchley,545011,6,1672
+West Drayton,329428,4,1937
+West Barnes,546794,3,801
+Wembley Central,349523,5,2784
+Welsh Harp,396847,5,1546
+Weavers,655271,7,3296
+Wealdstone,347994,5,1159
+Warwick,1069727,3,1434
+Wandsworth Common,993069,6,1177
+Wandle Valley,264395,5,951
+Walpole,684845,3,1392
+Wallington South,332766,1,777
+Wallington North,337097,4,820
+Wall End,291813,4,1227
+Waddon,285605,11,2241
+Vincent Square,1195539,9,2595
+Village,224055,17,663
+Village,224055,17,2027
+Victoria,612380,4,1946
+Vassall,543018,7,1693
+Valley,324900,3,1691
+Valentines,317840,10,1811
+Valence,258895,3,956
+Uxbridge South,332008,5,1398
+Uxbridge North,409225,5,1377
+Upper Edmonton,298322,5,3569
+Upminster,491744,11,943
+Underhill,518872,5,1385
+Twickenham Riverside,788561,2,1194
+Turkey Street,290437,5,1775
+Tulse Hill,565188,4,1818
+Tudor,726628,3,807
+Trinity,663395,3,1310
+Townfield,302910,6,2189
+Totteridge,784917,9,970
+Tottenham Hale,309956,7,3469
+Tottenham Green,392412,3,3852
+Tooting,574345,7,2033
+Tollington,575800,5,1748
+Tokyngton,370024,2,2552
+Thurlow Park,557518,5,1410
+Thornton Heath,289470,5,1943
+Thornton,595267,10,979
+The Wrythe,311120,4,825
+Thamesmead Moorings,241344,7,2064
+Thamesmead East,220264,8,1307
+Thamesfield,875019,6,1828
+Thames,226531,8,1893
+Telegraph Hill,497145,7,1446
+Teddington,740779,4,818
+Tachbrook,995347,3,732
+Syon,450491,7,1915
+Sydenham,416719,6,1547
+Swiss Cottage,1768072,7,1381
+Sutton West,358708,4,750
+Sutton South,317126,2,547
+Sutton North,349105,4,774
+Surrey Docks,476067,4,1038
+Surbiton Hill,529428,8,599
+Sudbury,338553,2,4535
+Stroud Green,624455,3,983
+Streatham Wells,397808,7,1304
+Streatham South,460764,3,1481
+Streatham Hill,528174,1,1565
+Stratford and New Town,373937,13,7058
+Stonecot,389194,4,680
+Stonebridge,352712,7,2986
+Stoke Newington,693113,0,1742
+Stockwell,560390,3,1854
+Stepney Green,403593,0,1506
+Stanmore Park,791168,4,879
+Stanley,1846611,4,1498
+Stamford Hill West,553948,0,816
+St Peter's,865228,0,3961
+St Peter's,865228,0,5599
+St Pancras and Somers Town,873379,0,4922
+St Mary's Park,780064,0,1498
+St Mary's,423392,0,2187
+St Mark's,489308,0,1130
+St Leonard's,504890,0,2250
+St Katharine's and Wapping,663404,0,2023
+St James,518335,0,451
+St Helier,335907,0,1250
+St Helier,335907,0,2162
+St Helen's,956440,0,868
+St George's,667612,0,1306
+St George's,667612,0,2805
+St Dunstan's,394330,0,1646
+St Ann's,431753,0,4488
+St Andrew's,313737,0,1388
+Squirrel's Heath,357425,8,870
+Springfield,438375,12,4238
+Spitalfields and Banglatown,473903,6,4508
+Southgate Green,620749,5,1453
+Southgate,469008,7,2608
+Southfields,631576,6,1607
+Southfield,882117,2,1029
+Southbury,332008,8,2084
+Southall Green,265123,3,1898
+Southall Broadway,287680,6,2434
+South Twickenham,607025,11,636
+South Ruislip,388084,4,1204
+South Richmond,1142745,7,2166
+South Norwood,333655,5,1989
+South Hornchurch,278368,6,1382
+South Bermondsey,378958,3,1775
+South Acton,595559,8,2215
+Sidcup,350561,7,1463
+Shortlands,557513,3,448
+Shooters Hill,340871,6,1083
+Shepherd's Bush Green,690603,6,4357
+Shaftesbury,808708,7,1521
+Shadwell,748705,9,2335
+Shacklewell,575906,0,1064
+Seven Sisters,464705,5,2186
+Seven Kings,328235,8,1447
+Selhurst,267076,11,1655
+Sands End,1197270,5,1257
+Sanderstead,475337,5,571
+Rushey Green,340356,4,1663
+Royal Hospital,2229035,2,1837
+Royal Docks,377807,3,1427
+Roxeth,365487,3,1020
+Roxbourne,324630,4,1094
+Rotherhithe,506672,6,2384
+Romford Town,286754,6,4568
+River,245151,6,2721
+Regent's Park,1429751,5,1549
+Regent's Park,1429751,5,5805
+Redcliffe,1501843,3,1049
+Raynes Park,719839,7,716
+Rayners Lane,437260,2,654
+Ravenscourt Park,1000813,10,1394
+Ravensbury,345992,5,937
+Rainham and Wennington,272136,4,1333
+Queenstown,752694,7,1997
+Queensbury,400657,8,773
+Queensbury,400657,8,2547
+Queens Park,1002505,10,1949
+Queen's Park,642058,5,1342
+Queen's Gate,2809175,5,1205
+Prince's,655353,2,2208
+Preston,415053,7,1430
+Poplar,353899,0,1195
+Ponders End,280229,9,2348
+Pollards Hill,308137,4,751
+Plumstead,286971,5,1974
+Plaistow and Sundridge,471095,5,1235
+Plaistow South,307888,3,2102
+Plaistow North,330255,7,1433
+Pinner South,574900,8,461
+Pinner,622679,1,824
+Pinkwell,327245,3,1570
+Petts Wood and Knoll,530852,4,775
+Pettits,407693,7,723
+Perry Vale,457020,6,1348
+Perivale,412534,4,1412
+Peninsula,462255,5,3800
+Penge and Cator,429828,8,2405
+Pembridge,1759388,6,1311
+Peckham Rye,543058,5,775
+Peckham,344580,3,1648
+Parsons Green and Walham,1288258,3,1477
+Parsloes,245967,2,755
+Palmers Green,456504,3,1526
+Palace Riverside,1217825,4,696
+Oval,776322,10,3067
+Osterley and Spring Grove,435004,2,1707
+Orpington,398120,6,1676
+Old Malden,461183,3,513
+Oakleigh,593138,5,1114
+Notting Dale,789114,0,1433
+Norwood Green,464416,9,1932
+Northwood Hills,490380,8,904
+Northwood,761453,10,762
+Northwick Park,544762,3,1150
+Northumberland Park,268893,13,3222
+Northumberland Heath,311903,4,778
+Northolt West End,291891,7,1912
+Northolt Mandeville,335278,4,1654
+Northfield,666598,3,3642
+Northcote,947178,9,2584
+North Richmond,763330,3,992
+North Greenford,372229,5,866
+North End,252555,6,1505
+Norland,3191496,9,719
+Norbiton,431150,3,1049
+Nonsuch,457136,3,788
+Noel Park,438316,3,4003
+Nightingale,814664,6,1520
+Newington,468398,3,1219
+Newbury,339579,5,1167
+New Cross,368821,4,2692
+Muswell Hill,874457,1,1300
+Munster,987567,4,806
+Mottingham and Chislehurst North,325343,6,1229
+Mortlake and Barnes Common,858377,3,868
+Monkhams,610104,7,705
+Mill Hill,667262,15,1847
+Mile End,403554,0,2849
+Mildmay,706771,4,1427
+Middle Park and Sutcliffe,462704,10,1183
+Merton Park,632724,6,859
+Mayfield,373610,6,1231
+Mayesbrook,247958,4,1039
+Mawneys,293445,3,1052
+Marylebone High Street,2318674,11,2775
+Marlborough,379540,2,1273
+Markhouse,420356,7,2049
+Mapesbury,643796,2,1878
+Manor Park,307797,6,1618
+Manor,439291,4,996
+Maida Vale,892858,5,839
+Loxford,270426,3,2144
+Lower Morden,375481,3,420
+Lower Edmonton,286409,5,1736
+Longthornton,349970,2,765
+Longlands,350920,3,431
+Longbridge,357157,5,4227
+London Fields,767740,0,2135
+Little Venice,1327181,4,1298
+Little Ilford,259351,5,1546
+Limehouse,607004,4,937
+Leytonstone,400820,3,1763
+Leyton,374804,5,1962
+Lewisham Central,340517,6,2661
+Lee Green,488460,6,1413
+Lea Bridge,539621,4,2281
+Lavender Fields,312466,2,884
+Latchmere,527693,6,1883
+Larkswood,375027,4,963
+Larkhall,612644,3,2349
+Lansbury,351705,0,2461
+Lancaster Gate,1133295,3,3018
+Ladywell,482958,2,1331
+Lady Margaret,352429,2,893
+Knightsbridge and Belgravia,4168373,3,1866
+Knight's Hill,464938,4,1532
+King's Park,511908,5,1288
+King's Cross,576929,1,2892
+Kilburn,599224,11,2044
+Kilburn,599224,11,4420
+Kidbrooke with Hornfair,344203,4,1390
+Kew,923739,7,1010
+Kenton West,508673,2,573
+Kenton East,408548,4,665
+Kenton,530998,5,911
+Kentish Town,815568,7,2097
+Kensal Green,664368,4,2124
+Kenley,429128,7,453
+Kelsey and Eden Park,526971,6,1589
+Junction,580392,7,2544
+Jubilee,298257,7,1390
+Isleworth,392220,5,1136
+Island Gardens,472388,0,1034
+Ickenham,613507,4,594
+Hylands,348224,5,1022
+Hyde Park,1191938,2,4331
+Hoxton West,762933,0,2074
+Hoxton East and Shoreditch,680749,0,4899
+Hounslow West,316623,5,1785
+Hounslow South,436413,2,652
+Hounslow Heath,304805,5,1609
+Hounslow Central,316145,5,1299
+Hornsey,540109,8,1752
+Homerton,497296,0,2523
+Holloway,540948,2,2069
+Holland,1945931,2,1021
+Holborn and Covent Garden,959145,5,6866
+Hoe Street,453926,2,1829
+Hobbayne,471537,6,1124
+Hillside,858262,8,1077
+Hillrise,580581,4,1293
+Hillingdon East,353540,7,979
+Highlands,437548,3,851
+Highgate,1262835,11,1144
+Highgate,1262835,11,2379
+Highbury West,702916,4,2598
+Highbury East,850683,5,1289
+Higham Hill,359648,8,1544
+High Street,409196,5,3049
+High Barnet,543839,8,1406
+Heston West,314825,2,1543
+Heston East,345223,6,1322
+Heston Central,359304,4,1187
+Herne Hill,578810,4,1972
+Hendon,546664,15,1881
+Heaton,275619,5,1476
+Heathrow Villages,270699,4,2153
+Heathfield,314732,14,730
+Heath,254449,7,2382
+Headstone South,415347,1,786
+Headstone North,501187,5,695
+Hayes and Coney Hall,499601,9,958
+Haverstock,766830,4,1721
+Havering Park,308667,6,931
+Hatch Lane,381193,6,903
+Hatch End,585356,4,625
+Haselbury,300857,8,1589
+Harrow on the Hill,458353,8,1148
+Harrow Weald,517217,2,771
+Harrow Road,619328,2,1475
+Harringay,539329,3,1874
+Harold Wood,317229,2,1117
+Harlesden,403956,6,3173
+Harefield,398221,3,637
+Hanworth Park,297039,8,1541
+Hanworth,294083,4,1305
+Hanger Hill,616115,7,1247
+Hampton Wick,750780,5,798
+Hampton North,474372,10,752
+Hampton,617539,10,659
+Hampstead Town,1670941,19,1378
+Hammersmith Broadway,789742,7,3896
+Hale End and Highams Park,445474,6,1049
+Hale,528963,9,1323
+Hainault,306605,4,1296
+Haggerston,497729,6,1847
+Hacton,338308,5,662
+Hackney Wick,500583,0,1824
+Hackney Downs,530493,7,1754
+Hackney Central,456993,4,2545
+Grove Park,332064,3,1205
+Grove Green,394289,6,1058
+Grove,475945,5,4354
+Greenwich West,558048,5,2773
+Greenhill,347223,10,4315
+Greenford Green,375106,4,1581
+Greenford Broadway,298040,6,2050
+Green Street West,334180,6,1936
+Green Street East,313319,6,1504
+Graveney,459886,7,704
+Graveney,459886,7,1825
+Grange,479123,6,1373
+Gospel Oak,1027122,5,1266
+Goresbrook,242088,5,1107
+Gooshays,283229,8,1812
+Goodmayes,308420,3,1632
+Golders Green,711308,9,1817
+Golborne,717743,11,1585
+Glyndon,275206,5,1400
+Gipsy Hill,448936,4,1499
+Gascoigne,222753,1,1348
+Garden Suburb,1319486,12,1323
+Furzedown,499836,4,1094
+Fulwell and Hampton Hill,588890,2,579
+Fullwell,373415,6,1327
+Fulham Reach,859641,14,1391
+Fulham Broadway,1071364,5,1353
+Fryent,412616,6,1335
+Frognal and Fitzjohns,1664604,20,1006
+Fortune Green,744831,4,1191
+Fortis Green,889093,7,1036
+Forest Hill,491322,7,1395
+Forest Gate South,374947,7,2478
+Forest Gate North,376396,10,1472
+Forest,429449,3,1497
+Finsbury Park,516798,4,4582
+Finchley Church End,711187,11,1195
+Figge's Marsh,301608,7,1507
+Ferndale,549258,2,2996
+Feltham West,266232,5,2043
+Feltham North,313620,4,1137
+Farnborough and Crofton,530075,6,951
+Faraday,407987,3,1780
+Falconwood and Welling,328948,4,1264
+Fairlop,371814,4,1087
+Fairfield,330277,26,1831
+Fairfield,330277,26,7450
+Evelyn,408601,6,1856
+Erith,234617,2,1836
+Enfield Lock,264802,4,1655
+Enfield Highway,295260,8,1880
+Endlebury,415582,3,695
+Emerson Park,528257,6,559
+Elthorne,508778,8,1954
+Eltham West,392645,8,1096
+Eltham South,370788,6,1688
+Eltham North,394308,4,924
+Elm Park,286712,4,938
+Edmonton Green,262261,4,3569
+Edgware,500583,14,991
+Edgware,500583,14,3046
+Eastcote and East Ruislip,549566,5,823
+Eastbury,263742,3,1318
+Eastbrook,287247,3,1362
+East Wickham,309495,2,946
+East Sheen,1082758,5,746
+East Putney,700676,7,987
+East Ham South,272317,4,1370
+East Ham North,292876,4,966
+East Ham Central,288873,3,3030
+East Finchley,565535,6,1130
+East Barnet,447321,6,1294
+East Acton,487687,8,2786
+Earlsfield,580620,5,1446
+Earl's Court,1079349,3,1957
+Ealing Common,668251,1,1578
+Ealing Broadway,660923,13,2998
+Dundonald,645601,2,643
+Dudden Hill,610685,2,2151
+Downham,301348,6,1554
+Dormers Wells,303533,6,1044
+Dollis Hill,453977,7,1554
+De Beauvoir,680042,10,1292
+Darwin,536416,3,315
+Dalston,625354,6,2567
+Dalgarno,754220,0,1028
+Custom House,278048,6,2276
+Crystal Palace,344583,1,1437
+Crouch End,795915,6,1328
+Crofton Park,495412,8,1236
+Cricket Green,269700,8,1326
+Crayford,248651,5,1784
+Cray Valley West,330750,5,1749
+Cray Valley East,296281,9,1837
+Cranham,438831,2,644
+Cranford,327999,3,1620
+Cranbrook,432813,3,1132
+Courtfield,2012314,7,1474
+Coppetts,509198,7,1835
+Copers Cope,453784,6,1661
+Coombe Vale,697294,5,395
+Coombe Hill,935334,7,729
+Colville,1420742,4,2411
+Colliers Wood,428524,1,1137
+College Park and Old Oak,519259,6,1695
+Colindale,334386,3,2148
+Coldharbour,510790,5,3892
+Cockfosters,724163,4,1458
+Clock House,412158,4,965
+Clissold,612867,4,1474
+Cleveland,619066,4,1129
+Clerkenwell,954084,3,2402
+Clementswood,281223,4,1404
+Clayhall,476208,9,1106
+Clapham Town,816578,3,2840
+Clapham Common,803954,5,1372
+Churchill,1137519,5,1342
+Church Street,615673,4,1940
+Chiswick Riverside,866724,6,1100
+Chiswick Homefields,1151061,3,1228
+Chislehurst,579759,14,1294
+Chingford Green,434900,4,1117
+Childs Hill,840735,5,2779
+Chessington South,364800,4,732
+Chelsfield and Pratts Bottom,518337,8,685
+Chelsea Riverside,2276378,0,1086
+Cheam,589757,4,575
+Chaucer,544126,6,1890
+Chase,389821,9,1401
+Charville,320359,8,875
+Charlton,436276,7,1288
+Chapel End,401184,5,1422
+Chadwell Heath,282682,4,1208
+Chadwell,281223,5,1025
+Cazenove,484635,15,1071
+Cavendish,442530,5,631
+Cathall,389291,3,1500
+Catford South,413856,6,1031
+Carshalton South and Clockhouse,486433,6,512
+Carshalton Central,384135,5,662
+Cantelowes,764146,2,1469
+Canons,556408,4,953
+Canonbury,817610,3,1067
+Cannon Hill,480915,2,427
+Canning Town South,372837,5,2136
+Canning Town North,290726,8,2763
+Cann Hall,389944,3,1142
+Canbury,622446,7,883
+Canary Wharf,500757,0,2601
+Campden,3161569,6,1401
+Camden Town with Primrose Hill,1252737,8,5231
+Camberwell Green,444072,11,2341
+Caledonian,667798,5,3409
+Bush Hill Park,429147,3,1071
+Burnt Oak,323209,7,2054
+Bunhill,793147,8,3307
+Bryanston and Dorset Square,1332330,9,2776
+Brunswick Park,489529,11,1257
+Brunel,357007,6,1684
+Bruce Grove,390974,2,1776
+Brownswood,572165,3,791
+Brooklands,241107,3,1683
+Brondesbury Park,872874,5,1502
+Brompton and Hans Town,2300648,0,3355
+Bromley Town,381563,8,3724
+Bromley South,374912,0,1313
+Bromley North,348936,0,1474
+Bromley Common and Keston,425022,6,1279
+Brockley,430558,7,2296
+Broad Green,267957,4,2778
+Brixton Hill,498939,8,2312
+Bridge,399203,2,1046
+Brentford,552932,9,2019
+Bowes,415405,3,1140
+Bow West,592440,7,2325
+Bow East,419229,2,2546
+Bounds Green,434599,5,1999
+Botwell,308527,13,1513
+Boleyn,290663,3,1660
+Bloomsbury,757092,3,6416
+Blendon and Penhill,358332,2,792
+Blackheath Westcombe,695638,8,1179
+Blackheath,624326,8,1589
+Blackfen and Lamorbey,351971,2,908
+Bishop's,685357,5,5190
+Biggin Hill,328512,2,624
+Bickley,605184,9,822
+Beverley,465628,3,1180
+Bethnal Green,497857,0,3379
+Berrylands,488174,2,613
+Bensham Manor,281112,7,1364
+Belvedere,211025,7,1597
+Belsize,1052069,8,1250
+Belmont,574620,6,490
+Belmont,574620,6,1120
+Bellingham,311490,11,1880
+Bedford,655903,4,912
+Bedfont,282414,4,1385
+Beddington South,465370,7,922
+Beddington North,339093,4,864
+Becontree,253269,2,1375
+Beckton,294946,4,2585
+Bayswater,1303804,3,1593
+Barnsbury,1013045,4,1102
+Barnhill,458695,11,1631
+Barnhill,458695,11,3343
+Barnes,1713441,8,678
+Barnehurst,298281,6,692
+Barkingside,395232,3,1220
+Balham,905590,4,1648
+Avonmore and Brook Green,909276,9,1209
+Askew,659043,4,1293
+Alperton,344342,3,1498
+Alibon,244132,3,1065
+Alexandra,760982,6,505
+Alexandra,760982,6,1493
+Aldborough,351854,5,1338
+Addison,900353,3,1700
+Acton Central,649509,5,1574
+Abingdon,1788085,1,1140
+Abbey Wood,295853,6,1876
+Abbey Road,1309680,11,899
+Abbey,213651,11,2804
+Abbey,213651,11,6283
+Valley,324900,3,3222
+Riverside,908488,7,1891
+Forest,429449,3,2537
+Abbey,213651,11,8939
+Victoria,612380,4,3583
+Trinity,663395,3,3095
+Queens Park,1002505,10,3637
+Jubilee,298257,7,2197
+Grange,479123,6,1916
+Town,400980,13,4013
+St Mary's,423392,0,3601
+West End,1924093,3,167
+Victoria,612380,4,5005
+St Mary's,423392,0,4018
+St James,518335,0,1177
+Shaftesbury,808708,7,2364
+Hale,528963,9,1656
+Alexandra,760982,6,4176
+Coombe Hill,935334,7,845
+Springfield,438375,12,6481
+Christchurch,327757,4,2727
+Chadwell,281223,5,2218
+St James,518335,0,2097
+Preston,415053,7,2107
+Ashburton,372295,3,284
+Kilburn,599224,11,5075
+Fairfield,330277,26,8036
+Abbey,213651,11,11239
+Dalston,625354,6,2771
+Brampton,359695,4,1395
+Queen's Park,642058,5,2176
+Trinity,663395,3,5130
